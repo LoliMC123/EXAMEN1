@@ -1,9 +1,9 @@
 package Ejercicio;
 
-public class Main {
+public class Quejica {
 
 	public static void main(String[] args) {
-	System.out.println("hola me llamo ");
+		// TODO Auto-generated method stub
 
 	}
 
